@@ -38,6 +38,7 @@ Pillow
 prettytable
 psutil
 psycopg2
+py-tgcalls
 pyfiglet
 PyGithub
 pygments
@@ -76,6 +77,5 @@ youtube-search
 yt-dlp==2023.09.24
 youtube_dl
 
-git+https://github.com/pytgcalls/pytgcalls
 git+https://github.com/buddhhu/img2html.git
 git+https://github.com/sandy1709/py-googletrans
