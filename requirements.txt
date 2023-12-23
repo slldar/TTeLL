@@ -74,7 +74,7 @@ wikipedia
 wget
 youtube-search-python==1.4.9
 youtube-search
-yt-dlp==2023.09.24
+yt-dlp==2023.11.16
 youtube_dl
 
 git+https://github.com/buddhhu/img2html.git
